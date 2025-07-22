@@ -12,6 +12,6 @@ function insert_Row() {
     // Step 4: Set the cell values
     cell1.innerHTML = "New Cell1";
     cell2.innerHTML = "New Cell2";
-}
+
   
 }
